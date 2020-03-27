@@ -1,0 +1,2 @@
+rootProject.name='Cadastro_clientes2'
+include ':app'
